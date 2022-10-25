@@ -4,6 +4,8 @@
 It is to segment the customers of an e-commerce company according to their purchase frequency, last transaction date and the total amount they spend, and to develop marketing strategies according to the segments.
 
 ## Dataset Story
+https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
 The dataset includes sales of a UK-based online store between 01/12/2009 - 09/12/2011.
 
 ## Variables
